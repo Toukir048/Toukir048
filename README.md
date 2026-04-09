@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toukir048&label=Profile%20views&color=0e75b6&style=flat" alt="toukir048" /> </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Assalamualikum❤️;Thanks+for+visiting+my+Profile!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 <img width="1678" height="624" alt="Gemini_Generated_Image_mvh08xmvh08xmvh0" src="https://github.com/user-attachments/assets/db9b5508-ae58-4e21-9fa4-73eedfcd74c6" />
 <h1 align="center">Hi 👋, I'm Toukir Sarder</h1>
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **anjumtanvir117@gmail.com**
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <h3 align="left">Connect with me:</h3>
