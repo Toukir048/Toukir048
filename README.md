@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [100-days-codeforces-challenge](https://github.com/Toukir048/100-days-codeforces-challenge)
 
-- 🌱 I’m currently learning **ReactJs , NextJS**
+- 🌱 I’m currently learning **ReactJs , NextJS, Django**
 
 - 💬 Ask me about **React,DSA & CP**
 
