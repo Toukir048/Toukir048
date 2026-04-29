@@ -17,12 +17,21 @@
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/toukir-sarder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="toukir-sarder" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/md-toukir-sarder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="md-toukir-sarder" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/toukir_ugv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="toukir_ugv" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/anjumtanvir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="anjumtanvir" height="30" width="40" /></a>
+<h3 align="center">🌐 Connect with me</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/toukir-sarder" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Toukir%20Sarder-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://stackoverflow.com/users/md-toukir-sarder" target="_blank">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-md--toukir--sarder-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+  </a>
+  <a href="https://www.hackerrank.com/toukir_ugv" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-toukir__ugv-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+  <a href="https://codeforces.com/profile/anjumtanvir" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-anjumtanvir-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
 </p>
 
 
