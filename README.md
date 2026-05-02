@@ -42,13 +42,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Toukir048&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="170" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Toukir048&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="170" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toukir048&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
-</p>
 
 ---
 
